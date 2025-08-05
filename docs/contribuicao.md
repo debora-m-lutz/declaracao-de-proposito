@@ -201,3 +201,10 @@ Não hesite em perguntar! Nenhuma pergunta é pequena demais. Use:
 - Email para questões privadas
 
 **Obrigado por ajudar a construir o futuro dos sistemas operacionais! 🚀**
+
+## 🔄 Atualização Contínua
+
+Este roadmap é um documento vivo. Revisões trimestrais são realizadas para alinhamento com os objetivos estratégicos, tecnológicos e de comunidade do projeto Lichtara OS.
+
+Última atualização: `2025-08-05`
+
