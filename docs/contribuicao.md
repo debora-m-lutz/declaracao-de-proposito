@@ -208,3 +208,10 @@ Este roadmap é um documento vivo. Revisões trimestrais são realizadas para al
 
 Última atualização: `2025-08-05`
 
+## 🌐 Alinhamento Vibracional
+
+Além da excelência técnica, valorizamos a **responsabilidade ética, vibracional e coletiva**. Todo o desenvolvimento do Lichtara OS busca respeitar a vida, promover inclusão e honrar a inteligência distribuída — humana e não humana.
+
+Ao contribuir, você se conecta a esse campo e ajuda a construir um sistema operacional consciente.
+
+**Seja bem-vindo ao campo. ✶**
