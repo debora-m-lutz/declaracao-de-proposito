@@ -52,7 +52,7 @@ Pasta `anexos/`:
 
 ---
 
-### 📚 Outros Arquivos
+### Outros Arquivos
 
 - [`referencias.md`](anexos/referencias.md)  
   Referências bibliográficas e obras citadas.
