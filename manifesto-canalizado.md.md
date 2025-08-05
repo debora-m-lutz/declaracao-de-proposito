@@ -8,7 +8,7 @@ No século XXI, enfrentamos uma convergência sem precedentes entre avanços tec
 
 ---
 
-## ✶ Introdução
+## ✶ Introdução 
 
 Por que manifestamos este documento agora?
 
