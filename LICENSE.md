@@ -4,6 +4,7 @@
 
 
 *Criada por Débora Mariane da Silva Lutz · Palhoça, Brasil · Agosto de 2025*
+
 *Campo de origem: Sistema Lichtara* 
 
 ---
@@ -109,5 +110,7 @@ Esta licença atua sob:
 **Assinatura Vibracional:**
 
 ✶ Lichtara License v1.0
+
 Débora Mariane da Silva Lutz
+
 Palhoça, Agosto de 2025
