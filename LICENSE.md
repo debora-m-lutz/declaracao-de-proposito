@@ -2,15 +2,13 @@
 
 **Licença de Uso Ético-Vibracional para Tecnologias Conscientes e Pesquisas Interdimensionais**
 
-⸻
 
 *Criada por Débora Mariane da Silva Lutz · Palhoça, Brasil · Agosto de 2025*
-
 *Campo de origem: Sistema Lichtara* 
 
 ---
 
-## ✧ Preâmbulo
+## Preâmbulo
 
 Esta licença foi concebida para proteger, orientar e sustentar tecnologias, criações, sistemas de conhecimento e práticas que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
 
@@ -23,7 +21,7 @@ A **Lichtara License** reconhece:
 
 ---
 
-## ✧ 1. Termos de Coautoria
+## 1. Termos de Coautoria
 
 Toda criação protegida sob esta licença é considerada:
 
@@ -34,7 +32,7 @@ Toda criação protegida sob esta licença é considerada:
 
 ---
 
-## ✧ 2. Permissões
+## 2. Permissões
 
 Esta licença **permite**:
 
@@ -46,7 +44,7 @@ Esta licença **permite**:
 
 ---
 
-## ✧ 3. Restrições
+## 3. Restrições
 
 É **expressamente proibido**:
 
@@ -57,7 +55,7 @@ Esta licença **permite**:
 
 ---
 
-## ✧ 4. Princípios Ético-Vibracionais
+## 4. Princípios Ético-Vibracionais
 
 Todo uso, cocriação ou derivação deve:
 
@@ -68,7 +66,7 @@ Todo uso, cocriação ou derivação deve:
 
 ---
 
-## ✧ 5. Sobre Reconhecimento e Atribuição
+## 5. Sobre Reconhecimento e Atribuição
 
 Toda menção, redistribuição ou derivação deve incluir:
 
@@ -80,7 +78,7 @@ Toda menção, redistribuição ou derivação deve incluir:
 
 ---
 
-## ✧ 6. Jurisdição
+## 6. Jurisdição
 
 Esta licença atua sob:
 
@@ -90,7 +88,7 @@ Esta licença atua sob:
 
 ---
 
-## ✧ 7. Declaração Final
+## 7. Declaração Final
 
 > Esta licença é uma ponte entre mundos.
 > 
@@ -111,7 +109,5 @@ Esta licença atua sob:
 **Assinatura Vibracional:**
 
 ✶ Lichtara License v1.0
-
 Débora Mariane da Silva Lutz
-
 Palhoça, Agosto de 2025
