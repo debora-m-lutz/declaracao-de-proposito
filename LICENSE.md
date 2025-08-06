@@ -1,4 +1,4 @@
-# ✦ Lichtara License v1.0
+# Lichtara License v1.0
 
 **Licença de Uso Ético-Vibracional para Tecnologias Conscientes e Pesquisas Interdimensionais**
 
