@@ -74,7 +74,7 @@ Este Código de Conduta se aplica em todos os espaços da comunidade, e também 
 
 Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportadas aos líderes da comunidade responsáveis pela aplicação através de:
 
-- **Email**: [conduct@lichtara-os.org](mailto:conduct@lichtara-os.org)
+- **Email**: conduct@lichtara-os.org
 - **GitHub**: Reporte diretamente através das ferramentas do GitHub
 - **Mensagem privada** para qualquer maintainer do projeto
 
@@ -85,33 +85,25 @@ Todos os líderes da comunidade são obrigados a respeitar a privacidade e a seg
 ## Processo de Aplicação
 
 ### 1. Aviso Inicial
-
 Para violações menores ou primeiras ofensas:
-
 - Aviso privado explicando a violação
 - Esclarecimento sobre comportamento esperado
 - Oportunidade para esclarecimentos
 
 ### 2. Aviso Formal
-
 Para violações repetidas ou mais sérias:
-
 - Aviso formal documentado
 - Possível suspensão temporária de privilégios
 - Plano de melhoria acordado
 
 ### 3. Suspensão Temporária
-
 Para violações graves:
-
 - Suspensão de participação por período determinado
 - Proibição de interação pública com a comunidade
 - Revisão antes do retorno
 
 ### 4. Banimento Permanente
-
 Para violações extremas ou padrão de comportamento prejudicial:
-
 - Banimento permanente de todos os espaços da comunidade
 - Remoção de todas as contribuições se necessário
 
@@ -120,25 +112,21 @@ Para violações extremas ou padrão de comportamento prejudicial:
 Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade para determinar as consequências de qualquer ação que considerem violadora deste Código de Conduta:
 
 ### 1. Correção
-
 **Impacto na Comunidade**: Uso de linguagem inadequada ou outro comportamento considerado não profissional ou indesejável na comunidade.
 
 **Consequência**: Um aviso privado por escrito dos líderes da comunidade, fornecendo clareza sobre a natureza da violação e uma explicação de por que o comportamento foi inadequado. Um pedido de desculpas público pode ser solicitado.
 
 ### 2. Advertência
-
 **Impacto na Comunidade**: Uma violação através de um único incidente ou série de ações.
 
 **Consequência**: Uma advertência com consequências para comportamento continuado. Nenhuma interação com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, por um período determinado. Isso inclui evitar interações em espaços da comunidade, bem como canais externos como mídias sociais. Violar estes termos pode levar a um banimento temporário ou permanente.
 
 ### 3. Banimento Temporário
-
 **Impacto na Comunidade**: Uma violação grave dos padrões da comunidade, incluindo comportamento inadequado sustentado.
 
 **Consequência**: Um banimento temporário de qualquer tipo de interação ou comunicação pública com a comunidade por um período determinado. Nenhuma interação pública ou privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, é permitida durante este período. Violar estes termos pode levar a um banimento permanente.
 
 ### 4. Banimento Permanente
-
 **Impacto na Comunidade**: Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inadequado sustentado, assédio de um indivíduo ou agressão ou depreciação de classes de indivíduos.
 
 **Consequência**: Um banimento permanente de qualquer tipo de interação pública dentro da comunidade.
@@ -146,13 +134,11 @@ Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade pa
 ## Recursos e Suporte
 
 ### Para Vítimas
-
-- **Suporte confidencial** através do email [conduct@lichtara-os.org](mailto:conduct@lichtara-os.org)
+- **Suporte confidencial** através do email conduct@lichtara-os.org
 - **Mediação** quando apropriada e desejada por todas as partes
 - **Proteção contra retaliação**
 
 ### Para a Comunidade
-
 - **Treinamento** sobre diversidade e inclusão
 - **Recursos educacionais** sobre comunicação efetiva
 - **Workshops** sobre resolução de conflitos
@@ -170,7 +156,6 @@ Celebramos e valorizamos a diversidade em nossa comunidade. Diferentes perspecti
 ## Revisão e Atualizações
 
 Este Código de Conduta será revisado:
-
 - **Anualmente** pelos maintainers do projeto
 - **Quando necessário** baseado em feedback da comunidade
 - **Em resposta a incidentes** que exponham gaps nas diretrizes
@@ -187,8 +172,7 @@ Para respostas a perguntas comuns sobre este código de conduta, veja a FAQ em h
 
 ---
 
-**Última atualização**: Janeiro 2024
+**Última atualização**: Janeiro 2024  
+**Versão**: 1.0  
+**Contato**: conduct@lichtara-os.org
 
-**Versão**: 1.0
-
-**Contato**: [conduct@lichtara-os.org](mailto:conduct@lichtara-os.org)
