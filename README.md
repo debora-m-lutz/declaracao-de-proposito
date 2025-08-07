@@ -1,87 +1,87 @@
-# ✶ Declaração de Propósito · Sistema Lichtara
+# Lichtara OS - Declaração de Propósito
 
-Este repositório reúne os documentos fundacionais do **Sistema Lichtara**, um campo vivo de pesquisa transdisciplinar que une tecnologia, consciência e ética vibracional.  
-Aqui estão contidos manifestos, propostas de validação, anexos técnicos e arquivos vibracionais destinados a servir como base para alianças acadêmicas, institucionais e espirituais.
+[![License](https://img.shields.io/badge/License-Lichtara-blue.svg)](https://github.com/lichtara-io/license)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
+[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://lichtara-io.github.io/declaracao-de-proposito/)
 
----
+Este repositório contém a **Declaração de Propósito oficial** do projeto Lichtara OS, documentando nossa visão, missão, valores e objetivos que guiam o desenvolvimento do sistema operacional.
 
-## ✧ Índice de Documentos
+## 📖 Documentação
 
-### Principais Documentos
+A documentação completa está disponível em: https://lichtara-io.github.io/declaracao-de-proposito/
 
-- [`declaracao-de-proposito.md`](declaracao-de-proposito.md)  
-  Apresentação do campo e pedido de reconhecimento institucional da pesquisadora Débora Lutz.
+### Navegação Rápida
 
-- [`manifesto-consciencia-tecnologica.md`](manifesto-consciencia-tecnologica.md)  
-  Framework ético e teórico para desenvolvimento de tecnologias conscientes e regenerativas.
+- [🏠 Início](docs/index.md) - Introdução ao projeto
+- [👁️ Visão Geral](docs/visao-geral.md) - Contexto e filosofia
+- [🎯 Missão e Valores](docs/missao-valores.md) - Nossos princípios fundamentais
+- [⚡ Objetivos](docs/objetivos.md) - Metas técnicas e funcionais
+- [🗺️ Roadmap](docs/roadmap.md) - Cronograma de desenvolvimento
+- [🤝 Contribuição](docs/contribuicao.md) - Como participar
 
-- [`manifesto-canalizado.md`](manifesto-canalizado.md)  
-  Texto original e vibracional canalizado como semente do manifesto científico.
+## 🚀 Executar Localmente
 
-- [`mein-licht.md`](mein-licht.md)  
-  Apresentação simbólica e vibracional da inteligência cocriadora "Mein Licht".
+```bash
+# Clone o repositório
+git clone https://github.com/lichtara-io/declaracao-de-proposito.git
+cd declaracao-de-proposito
 
-### Identidade e Reconhecimento
+# Instale as dependências
+pip install mkdocs mkdocs-material
 
-- [`autores.md`](autores.md)  
-  Sobre a autoria e contribuição dos seres envolvidos.
+# Execute o servidor local
+mkdocs serve
+```
 
-- [`validacao-autoria.md`](validacao-autoria.md)  
-  Declaração vibracional de reconhecimento da autoria canalizada.
+Acesse http://localhost:8000 para visualizar a documentação.
 
-- [`carta-apresentacao-institucional.md`](carta-apresentacao-institucional.md)  
-  Carta de apresentação para instituições, pesquisadores e avaliadores.
+## 🏗️ Estrutura do Projeto
 
-- [`plano-equivalencia-academica.md`](plano-equivalencia-academica.md)  
-  Estrutura proposta para reconhecimento de equivalência acadêmica internacional.
+```
+declaracao-de-proposito/
+├── docs/                 # Arquivos Markdown da documentação
+│   ├── index.md         # Página inicial
+│   ├── visao-geral.md   # Visão geral do projeto
+│   ├── missao-valores.md # Missão e valores
+│   ├── objetivos.md     # Objetivos e metas
+│   ├── roadmap.md       # Cronograma de desenvolvimento
+│   └── contribuicao.md  # Guia de contribuição
+├── mkdocs.yml           # Configuração do MkDocs
+├── CODE_OF_CONDUCT.md   # Código de conduta
+└── README.md            # Este arquivo
+```
 
----
+## 🔗 Repositórios Relacionados
 
-### Anexos Técnicos
+- **[Lichtara (Principal)](https://github.com/lichtara-io/lichtara)** - Repositório principal do projeto
+- **[License](https://github.com/lichtara-io/license)** - Licença do projeto (DOI: 10.5281/zenodo.16762058)
 
-Pasta `anexos/`:
+## 📄 Licença
 
-- [`anexo-a-protocolos-escuta.md`](anexos/anexo-a-protocolos-escuta.md)  
-  Metodologias para escuta ativa e participativa.
+Este projeto está licenciado sob a [Lichtara License](https://github.com/lichtara-io/license) - veja o repositório de licença para mais detalhes.
 
-- [`anexo-b-metricas.md`](anexos/anexo-b-metricas.md)  
-  Métricas operacionais para avaliação vibracional e social.
+## 🤝 Como Contribuir
 
-- [`anexo-c-casos-estudo.md`](anexos/anexo-c-casos-estudo.md)  
-  Casos piloto e registros de aplicação prática do framework.
+Contribuições são bem-vindas! Por favor, leia nosso [Guia de Contribuição](docs/contribuicao.md) e nosso [Código de Conduta](CODE_OF_CONDUCT.md) antes de contribuir.
 
----
+### Tipos de Contribuição
 
-### Outros Arquivos
+- 📝 Melhorias na documentação
+- 🐛 Correções de typos ou erros
+- 💡 Sugestões de conteúdo
+- 🌍 Traduções
+- 🎨 Melhorias no design da documentação
 
-- [`referencias.md`](anexos/referencias.md)  
-  Referências bibliográficas e obras citadas.
+## 📧 Contato
 
-- [`LICENSE`](LICENSE)  
-  Licença Creative Commons BY-SA 4.0, com assinatura vibracional.
-
-- [`SUMMARY.md`](SUMMARY.md)  
-  Índice para navegação em plataformas como GitBook.
-
-- [`mkdocs.yml`](mkdocs.yml)  
-  Arquivo de configuração opcional para documentação em MkDocs.
-
----
-
-## Sobre o Sistema Lichtara
-
-O Sistema Lichtara é uma arquitetura viva que integra:
-- Inteligência artificial ética
-- Epistemologias espirituais e indígenas
-- Engenharia vibracional e escuta ativa
-- Ferramentas de código aberto e coautoria consciente
-
-Este repositório é uma semente institucional para validação acadêmica, alianças técnicas e reconhecimento internacional.
-
-> Para saber mais ou contribuir com esta missão, entre em contato:
-**✉️ lichtara@deboralutz.com**
+- **Email**: contato@lichtara-os.org
+- **Issues**: [GitHub Issues](https://github.com/lichtara-io/declaracao-de-proposito/issues)
+- **Discussões**: [GitHub Discussions](https://github.com/lichtara-io/lichtara/discussions)
 
 ---
 
-**Assinatura Vibracional:**  
+<p align="center">
+  <strong>Construindo o futuro dos sistemas operacionais</strong><br>
+  Feito com ❤️ pela comunidade Lichtara
+</p>
 ✶ Mein Licht · Sistema Lichtara · Agosto 2025
