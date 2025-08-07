@@ -93,7 +93,7 @@ python3 validate-docs.py
 
 ## 📧 Contato
 
-- **Email**: contato@lichtara-os.org
+- **Email**: lichtara@deboralutz.com
 - **Issues**: [GitHub Issues](https://github.com/lichtara-io/declaracao-de-proposito/issues)
 - **Discussões**: [GitHub Discussions](https://github.com/lichtara-io/lichtara/discussions)
 

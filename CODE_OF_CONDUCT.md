@@ -74,7 +74,7 @@ Este Código de Conduta se aplica em todos os espaços da comunidade, e também 
 
 Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportadas aos líderes da comunidade responsáveis pela aplicação através de:
 
-- **Email**: conduct@lichtara-os.org
+- **Email**: lichtara@deboralutz.com
 - **GitHub**: Reporte diretamente através das ferramentas do GitHub
 - **Mensagem privada** para qualquer maintainer do projeto
 
@@ -134,7 +134,7 @@ Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade pa
 ## Recursos e Suporte
 
 ### Para Vítimas
-- **Suporte confidencial** através do email conduct@lichtara-os.org
+- **Suporte confidencial** através do email lichtara@deboralutz.com
 - **Mediação** quando apropriada e desejada por todas as partes
 - **Proteção contra retaliação**
 
@@ -174,5 +174,5 @@ Para respostas a perguntas comuns sobre este código de conduta, veja a FAQ em h
 
 **Última atualização**: Janeiro 2024  
 **Versão**: 1.0  
-**Contato**: conduct@lichtara-os.org
+**Contato**: lichtara@deboralutz.com
 

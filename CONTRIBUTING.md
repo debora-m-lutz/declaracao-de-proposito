@@ -76,4 +76,4 @@ Este projeto segue nosso [Código de Conduta](CODE_OF_CONDUCT.md). Ao participar
 
 - Abra uma [Issue](https://github.com/lichtara-io/declaracao-de-proposito/issues)
 - Use [Discussions](https://github.com/lichtara-io/lichtara/discussions) para perguntas gerais
-- Email: contato@lichtara-os.org
+- Email: lichtara@deboralutz.com
