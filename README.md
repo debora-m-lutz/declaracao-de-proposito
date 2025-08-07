@@ -21,6 +21,14 @@ A documentação completa está disponível em: https://lichtara-io.github.io/li
 - [🗺️ Roadmap](docs/roadmap.md) - Cronograma de desenvolvimento
 - [🤝 Contribuição](docs/contribuicao.md) - Como participar
 
+### 📎 Anexos Técnicos
+
+- [📚 Referências e Inspirações](anexos/referencias-e-inspiracoes.md) - Fontes que inspiraram o projeto
+- [📅 Cronograma Detalhado](anexos/cronograma-detalhado.md) - Timeline expandido com marcos específicos
+- [🔧 Especificações Técnicas](anexos/especificacoes-tecnicas-preliminares.md) - Arquitetura e requisitos técnicos
+- [📊 Estudos de Caso](anexos/estudos-de-caso.md) - Análise comparativa com outros sistemas
+- [📖 Dicionário do Invisível](https://github.com/lichtara-io/dicionario-do-invisivel) - Glossário conceitual
+
 ## 🚀 Executar Localmente
 
 ```bash
