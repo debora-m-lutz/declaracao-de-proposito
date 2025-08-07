@@ -1,0 +1,15 @@
+repository:
+  name: declaracao-de-proposito
+  description: "Declaração de Propósito oficial do Lichtara OS - documentando nossa visão, missão e valores"
+  homepage: https://lichtara-io.github.io/declaracao-de-proposito/
+  topics: 
+    - lichtara-os
+    - documentation
+    - declaracao-proposito
+    - mkdocs
+    - operating-system
+  default_branch: main
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
+  delete_branch_on_merge: true
