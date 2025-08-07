@@ -1,3 +1,19 @@
-# Configuração de financiamento para o projeto
-github: # deboralutz
-custom: ["https://deboralutz.com/apoie", "lichtara@deboralutz.com"]
+# Configuração de financiamento para o projeto Lichtara OS
+
+# GitHub Sponsors (pendente de aprovação)
+# github: deboralutz
+
+# Plataformas ativas de financiamento
+patreon: lichtara_io
+liberapay: lichtara-io
+
+# Links personalizados de financiamento
+custom: 
+  - https://deboralutz.bio/
+  - https://www.paypal.com/paypalme/lichtara
+  - https://deboralutz.com/apoie
+
+# Outras opções disponíveis:
+# PIX: lichtara@deboralutz.com
+# Conta Jurídica Santander: Entre em contato via lichtara@deboralutz.com
+# PayPal direto: lichtara@deboralutz.com
