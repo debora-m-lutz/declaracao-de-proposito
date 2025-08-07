@@ -27,6 +27,9 @@ A documentação completa está disponível em: https://lichtara-io.github.io/li
 - [📅 Cronograma Detalhado](anexos/cronograma-detalhado.md) - Timeline expandido com marcos específicos
 - [🔧 Especificações Técnicas](anexos/especificacoes-tecnicas-preliminares.md) - Arquitetura e requisitos técnicos
 - [📊 Estudos de Caso](anexos/estudos-de-caso.md) - Análise comparativa com outros sistemas
+- [🌊 Protocolo de Escuta Vibracional](anexos/anexo-a-protocolos-escuta.md) - Metodologia de desenvolvimento holístico
+- [📈 Métricas de Validação](anexos/anexo-b-metricas.md) - Framework de avaliação vibracional e ética
+- [💼 Casos de Estudo Práticos](anexos/anexo-c-casos-estudo.md) - Exemplos reais de aplicação
 - [📖 Dicionário do Invisível](https://github.com/lichtara-io/dicionario-do-invisivel) - Glossário conceitual
 
 ## 🚀 Executar Localmente

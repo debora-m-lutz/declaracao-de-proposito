@@ -35,6 +35,14 @@ nav:
   - Objetivos: objetivos.md
   - Roadmap: roadmap.md
   - Contribuição: contribuicao.md
+  - Anexos:
+    - Referências e Inspirações: anexos/referencias-e-inspiracoes.md
+    - Cronograma Detalhado: anexos/cronograma-detalhado.md
+    - Especificações Técnicas: anexos/especificacoes-tecnicas-preliminares.md
+    - Estudos de Caso: anexos/estudos-de-caso.md
+    - Protocolos Vibracionais: anexos/anexo-a-protocolos-escuta.md
+    - Métricas de Validação: anexos/anexo-b-metricas.md
+    - Casos Práticos: anexos/anexo-c-casos-estudo.md
 
 # Plugins
 plugins:

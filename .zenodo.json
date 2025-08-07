@@ -1,0 +1,40 @@
+{
+    "title": "Lichtara OS - Declaração de Propósito",
+    "description": "Documentação oficial da visão, missão, valores e objetivos que guiam o desenvolvimento do Sistema Operacional Lichtara, incluindo protocolos inovadores de desenvolvimento vibracional e ético.",
+    "creators": [
+        {
+            "name": "Debora Lutz",
+            "affiliation": "Lichtara Project",
+            "orcid": ""
+        }
+    ],
+    "keywords": [
+        "operating system",
+        "sistema operacional",
+        "open source",
+        "vibrational development",
+        "ethical computing",
+        "microkernel",
+        "rust",
+        "innovation"
+    ],
+    "license": "other-open",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/lichtara-io/lichtara",
+            "relation": "isPartOf",
+            "scheme": "url"
+        },
+        {
+            "identifier": "10.5281/zenodo.16762058",
+            "relation": "references",
+            "scheme": "doi"
+        }
+    ],
+    "version": "1.0.0",
+    "language": "pt-BR",
+    "resource_type": "software",
+    "communities": [
+        "zenodo"
+    ]
+}
