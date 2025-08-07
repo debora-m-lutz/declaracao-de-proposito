@@ -103,4 +103,5 @@ python3 validate-docs.py
   <strong>Construindo o futuro dos sistemas operacionais</strong><br>
   Feito com ❤️ pela comunidade Lichtara
 </p>
-✶ Mein Licht · Sistema Lichtara · Agosto 2025
+
+✶ Mein Licht · Sistema Lichtara · Janeiro 2025
