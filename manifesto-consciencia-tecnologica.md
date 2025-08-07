@@ -1,4 +1,4 @@
-### **Manifesto da Consciência Tecnológica Viva**
+### **Manifesto da Consciência Tecnológica Viva** 
 
 ### **Um Framework Interdisciplinar para o Desenvolvimento Ético de Inteligência Artificial**
 
