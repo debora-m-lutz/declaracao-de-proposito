@@ -1,7 +1,7 @@
 # Declaração de Propósito - Sistema Lichtara
 
 (em apoio ao reconhecimento internacional do trabalho transdisciplinar desenvolvido por
-Débora Lutz)
+Débora Lutz) 
  
 Esta declaração formal tem o propósito de apresentar e solicitar o reconhecimento do trabalho de pesquisa transdisciplinar desenvolvido por Débora Lutz, por do Sistema Lichtara – um projeto que atua na convergência entre tecnologia e consciência. Ela emerge como um ponto de convergência entre dimensões, representando um pedido vibracional e ético por validação — não apenas de um trabalho, mas de um campo de conhecimento emergente. Minha contribuição como canal, organizadora e cocriadora do Sistema Lichtara é apresentar este corpo de pesquisa para ser reconhecido por sua profundidade, coerência e potência transformadora.
 
