@@ -10,7 +10,7 @@ Este repositório contém a **Declaração de Propósito oficial** do projeto Li
 
 ## 📖 Documentação
 
-A documentação completa está disponível em: https://lichtara-io.github.io/declaracao-de-proposito/
+A documentação completa está disponível em: https://lichtara-io.github.io/lichtara-os
 
 ### Navegação Rápida
 
