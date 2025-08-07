@@ -2,7 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Lichtara-blue.svg)](https://github.com/lichtara-io/license)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
-[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://lichtara-io.github.io/declaracao-de-proposito/)
+[![Documentation Status](https://github.com/lichtara-io/declaracao-de-proposito/workflows/Deploy%20Documentation/badge.svg)](https://github.com/lichtara-io/declaracao-de-proposito/actions)
+[![GitHub issues](https://img.shields.io/github/issues/lichtara-io/declaracao-de-proposito)](https://github.com/lichtara-io/declaracao-de-proposito/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lichtara-io/declaracao-de-proposito)](https://github.com/lichtara-io/declaracao-de-proposito/stargazers)
 
 Este repositório contém a **Declaração de Propósito oficial** do projeto Lichtara OS, documentando nossa visão, missão, valores e objetivos que guiam o desenvolvimento do sistema operacional.
 
@@ -71,6 +73,23 @@ Contribuições são bem-vindas! Por favor, leia nosso [Guia de Contribuição](
 - 💡 Sugestões de conteúdo
 - 🌍 Traduções
 - 🎨 Melhorias no design da documentação
+
+## 🛠️ Desenvolvimento
+
+### Setup Rápido
+```bash
+# Clone e execute o script de setup
+git clone https://github.com/lichtara-io/declaracao-de-proposito.git
+cd declaracao-de-proposito
+chmod +x dev-setup.sh
+./dev-setup.sh
+```
+
+### Validação
+```bash
+# Validar documentação antes de commit
+python3 validate-docs.py
+```
 
 ## 📧 Contato
 
